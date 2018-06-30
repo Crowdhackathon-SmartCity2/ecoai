@@ -1,0 +1,6 @@
+com\mycompany\ecoserverservices\impl\TransactionServiceImpl.class
+com\mycompany\ecoserverservices\impl\UserServiceImpl.class
+com\mycompany\ecoserverservices\TransactionService.class
+com\mycompany\ecoserverservices\UserService.class
+com\mycompany\ecoserverservices\BadgeService.class
+com\mycompany\ecoserverservices\impl\BadgeServiceImpl.class

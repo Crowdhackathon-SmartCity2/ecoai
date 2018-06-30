@@ -1,0 +1,10 @@
+com\mycompany\ecoserverweb\EcoServerApplication.class
+com\mycompany\ecoserverweb\controllers\BadgeController.class
+com\mycompany\ecoserverweb\controllers\LabelApp$1.class
+com\mycompany\ecoserverweb\responses\SuccessResponses.class
+com\mycompany\ecoserverweb\controllers\UserController.class
+com\mycompany\ecoserverweb\responses\ControllerEnum.class
+com\mycompany\ecoserverweb\controllers\TransactionController.class
+com\mycompany\ecoserverweb\controllers\LabelApp.class
+com\mycompany\ecoserverweb\responses\SuccessEnum.class
+com\mycompany\ecoserverweb\responses\CustomErrorType.class

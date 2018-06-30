@@ -1,0 +1,8 @@
+com\mycompany\ecoserverpersistence\models\Badge.class
+com\mycompany\ecoserverpersistence\models\User.class
+com\mycompany\ecoserverpersistence\repositories\BadgeRepository.class
+com\mycompany\ecoserverpersistence\repositories\TransactionRepository.class
+com\mycompany\ecoserverpersistence\repositories\UserBadgeRepository.class
+com\mycompany\ecoserverpersistence\models\Transaction.class
+com\mycompany\ecoserverpersistence\repositories\UserRepository.class
+com\mycompany\ecoserverpersistence\models\UserBadge.class
